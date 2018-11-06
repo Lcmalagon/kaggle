@@ -1,0 +1,12 @@
+[submodule "house-prices-advanced-regression-techniques"]
+	path = house-prices-advanced-regression-techniques
+	url = https://github.com/hexicle/house-prices-advanced-regression-techniques
+[submodule "titanic"]
+	path = titanic
+	url = https://github.com/hexicle/titanic
+[submodule "digit-recognizer"]
+	path = digit-recognizer
+	url = https://github.com/hexicle/digit-recognizer
+[submodule "airbus-ship-detection"]
+	path = airbus-ship-detection
+	url = https://github.com/hexicle/airbus-ship-detection
