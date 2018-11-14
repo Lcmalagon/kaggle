@@ -9,3 +9,8 @@ or
 
 ## Update
 `git submodule update --recursive --remote;`
+
+## Adding new commits
+`git add .;`
+`git commit -m 'update commits';`
+`git push origin HEAD:master;`
