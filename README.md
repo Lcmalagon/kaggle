@@ -1,5 +1,4 @@
-
-# kaggle
+ggle
 Compilation of kaggle competitions
 
 ## Competitions
@@ -13,7 +12,7 @@ The chronological order of attempt is as follows: house prices, titanic, digit r
 
 ## Setup
 `git clone --recurse-submodules https://github.com/hexicle/kaggle`
-or 
+or
 `git clone https://github.com/hexicle/kaggle;`
 `git submodule update --init --recursive;`
 
