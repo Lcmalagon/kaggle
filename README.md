@@ -1,4 +1,5 @@
-ggle
+# kaggle
+
 Compilation of kaggle competitions
 
 ## Competitions
